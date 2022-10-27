@@ -2,7 +2,7 @@
 urlLinkShortner Developed Using SpringBoot With the help of servlet and commons dependency, able to shorten any url and have genersated the short link
 
 
-** Database The link is saved**
+**Database The link is saved**
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/57911117/198003840-7e4feca5-e5e7-468f-9e38-f15e6b113be3.png)
 
